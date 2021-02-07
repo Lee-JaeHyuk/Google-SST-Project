@@ -34,16 +34,20 @@ H/W 개발 환경
 
 ![1](https://user-images.githubusercontent.com/60414900/107150084-63cc9300-699f-11eb-8ec3-ddce7397c834.JPG)
 <br/><br/>
+
 2. 단어 (과일, 탈 것, 운송수단, 측량도구, 사자 5개 단어 입력)  
 
 ![2](https://user-images.githubusercontent.com/60414900/107150117-8eb6e700-699f-11eb-8eeb-7353ca7743f9.JPG)
 <br/><br/>
+
 3. 문장 (명령어 2개 입력)  
 
+![3](https://user-images.githubusercontent.com/60414900/107150136-a8f0c500-699f-11eb-92a2-52cc163cd6c8.JPG)
+<br/><br/>
 
-
-
-
+- Google STT 사용 이유  
+당시 프로젝트를 진행 당시 Naver Clova의 경우 HTTP 통신 2.0 이 지원되지 않아 실시간 음성에 대한 처리를 하지 못하였다.  
+따라서 실시간 시험으로 진행되는데 사용되는 프로젝트인 Mock-k test의 부적합하여 Google STT APi 를 사용하게 되었다.
 
 
 
