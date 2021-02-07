@@ -1,54 +1,55 @@
 # Google-SST-Project
-구글의 SST API를 활용한 상지 재활 평가
-
-# Ai-ParkingSystem
-## JetsonNano 와 RasberryPi 2.0 를 이용한 주차 공간 및 QR코드 를 통한 주차 위치 확인 시스템<br/><br/>
+## 구글의 SST API를 활용한 상지 재활 평가 <br/><br/>
 
 ### **1. 프로젝트 목표**
 
-aParkings-AI System은 RasberryPi 2.0 이 촬영한 영상을 Jetson Nano 로 전달하고 후 객체 탐지 알고리즘(Yolo v3 알고리즘)을 통해 주차구역내 자동차의 유무를 파악 후 빈 주차 공간을 알려주는 시스템이다. 
-
-이 시스템의 부가적인 서비스로는 QR코드를 통해 주차한 위치를 대략적으로 알 수 있는 애플리케이션도 포함되어 있다. 
-
-이 프로젝트는 사용자의 편리한 주차 및 주차한 위치를 빠르게 찾을 수 있는 서비스를 제공하는 것이 목표이다.<br/><br/>
+- 한국 몬트리올 인지평가(MoCa-K)는 경도인지장애를 평가하고자 만들어졌다. 주의력, 집중력, 실행력, 기억력, 어휘력, 시각 공간력, 추상력, 계산과 지남력 같은 인지 기능들을 평가한다.
+- 이번 음성인식 활용에는 Google API의 Speech To Text를 이용했다. <br/><br/>
 
 
 ### **2. 프로젝트 개발 환경**
 
 S/W 개발 환경
-* - OS : Window 7
-* - IDE : pyCharm, gedit
-* - Language : C, Python3
+* - OS : Window 10
+* - IDE : Visual Studio Community 2019, .NetFramwork
+* - Language : WPF(C#, XAML)
 
 H/W 개발 환경
-* - Device : Jeson Nano, Rasberry PI 2.0
-* - Commuticate : UDP Socket
-* - Language : C, Python3<br/><br/>
+* - Device : Samsung mic  <br/><br/>
 
 ### **3. 프로젝트 적용 기술**
 
-#### 3-1. UDP Socket 통신
-- PC → Jetson Nano  
-SenTerm에서 촬영한 이미지를 SD카드를 통해 PC에 저장 후 PC를 통해 Jetson Nano로 전송
+#### 3-1. STT API
+- Google VS Naver  
+웹 기반 콘솔에서 서비스를 등록하여 음성인식을 하는 API중에 대표적인 2개 네이버 클로버와 구글을 비교해보았다.
 
-- Jetson Nano → PC  
-이미지 처리에 대한 결과(주차구역 내 주차유무에 대한 정보)를 PC로 전송<br/><br/>
+- 실험 환경  
+각기 다른 사람 5명의 목소리 데이터를 갖고 실험  
+각 사람마다 총 2번의 실습 내용을 거친다.  
+실시간, 녹음 형태로 실험 진행  
 
-#### 3-2.이미지 처리
-- OpenCV
-이미지의 특정 위치(주차구역)를 자른 이미지 파일 저장
-- Yolov3
-자른 이미지 파일이 자동차인지 판단하여 자동차 유무 결정
-자동차 유무에 대한 리스트 저장<br/><br/>
+- 실험 결과
 
-#### 3-3.User InterFace
-- Pygame
-주차구역에 대한 정보(자동차 유무)가 표시된 주차 도면을 스크린으로 출력
-- Pandas
-주차장 정보 테이블을 데이터 프레임으로 출력<br/><br/>
+1. 음절 
+- 한글 14개 음절 입력
 
-#### 3-4.Qr code
-- QR code 생성을 도와주는 파이썬 모듈<br/><br/>
+|제목|내용|설명|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
+
+2. 단어  
+- 과일, 탈 것, 운송수단, 측량도구, 사자 5개 단어 입력  
+
+
+
+
+3. 문장  
+- 명령어 2개 입력  
+
+
+
+
 
 
 
