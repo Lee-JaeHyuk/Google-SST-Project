@@ -1,0 +1,314 @@
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\audio.raw
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe.config
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.xml
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Form1.resources
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Properties.Resources.resources
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CopyComplete
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.exe
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.pdb
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\wide-link-259109-47d68c2646dc.json
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.dll
+C:\Users\user\source\repos\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x86.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x64.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.so
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.dylib
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\wide-link-259109-47d68c2646dc.json
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\audio.raw
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe.config
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.PlatformServices.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.dll
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.xml
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csprojAssemblyReference.cache
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Form1.resources
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Properties.Resources.resources
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.GenerateResource.cache
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CopyComplete
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.exe
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.pdb
+D:\CSharp\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\wide-link-259109-47d68c2646dc.json
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\audio.raw
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe.config
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.xml
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Form1.resources
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Properties.Resources.resources
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CopyComplete
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.exe
+C:\Users\user\Desktop\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\wide-link-259109-47d68c2646dc.json
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\audio.raw
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe.config
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.PlatformServices.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.xml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csprojAssemblyReference.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Form1.resources
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Properties.Resources.resources
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.GenerateResource.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CoreCompileInputs.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CopyComplete
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.exe
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x86.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x64.dll
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.so
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.so
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.dylib
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\wide-link-259109-47d68c2646dc.json
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\audio.raw
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe.config
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.exe
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\WinformSpeechAPI.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.dll
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Apis.Core.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.LongRunning.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Google.Protobuf.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Auth.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Grpc.Core.Api.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\NAudio.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\bin\Debug\System.Interactive.Async.xml
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csprojAssemblyReference.cache
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Form1.resources
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.Properties.Resources.resources
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.GenerateResource.cache
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CoreCompileInputs.cache
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.csproj.CopyComplete
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.exe
+C:\Users\오썸피아\Desktop\Google Speech To Text\GoogleCloudAPITest\WinformSpeechAPI\obj\Debug\WinformSpeechAPI.pdb
