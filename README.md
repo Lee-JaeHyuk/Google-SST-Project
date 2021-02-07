@@ -36,8 +36,7 @@ H/W 개발 환경
 <br/><br/>
 2. 단어 (과일, 탈 것, 운송수단, 측량도구, 사자 5개 단어 입력)  
 
-
-
+![2](https://user-images.githubusercontent.com/60414900/107150117-8eb6e700-699f-11eb-8eeb-7353ca7743f9.JPG)
 <br/><br/>
 3. 문장 (명령어 2개 입력)  
 
