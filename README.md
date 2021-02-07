@@ -32,7 +32,7 @@ H/W 개발 환경
 
 1. 음절 (한글 14개 음절 입력)  
 
-
+![1](https://user-images.githubusercontent.com/60414900/107150084-63cc9300-699f-11eb-8ec3-ddce7397c834.JPG)
 <br/><br/>
 2. 단어 (과일, 탈 것, 운송수단, 측량도구, 사자 5개 단어 입력)  
 
